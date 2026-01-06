@@ -1,4 +1,4 @@
-Her türlü sorun için 
+ Her türlü sorun için 
 DC:zararveremezsin
 İg:emirr66x
 
