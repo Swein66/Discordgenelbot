@@ -1,5 +1,5 @@
 Her türlü sorun için 
-Discord:zararveremezsin
+DC:zararveremezsin
 İg:emirr66x
 
 _________________________________________________
