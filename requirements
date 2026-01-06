@@ -1,0 +1,9 @@
+1-Kurmanız Gereken Libraryler aşşağıdadır
+
+-FFmpeg: Müzik çalmak için bilgisayarında/sunucunda kurulu olması gerekir yoksa müzik komutlarını çalıştıramazsınız.
+
+PyNaCl: Botun Ses Kanallarına Girebilmesi için gerekli.
+
+discord.py: Botun Discord ile iletişim kurmasını sağlayan ana kütüphanedir.
+
+Botu Çalıştırmak İçin Python 3.8 Üzeri Olması Gerekir.
